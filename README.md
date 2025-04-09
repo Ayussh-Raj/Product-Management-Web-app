@@ -3,16 +3,7 @@
 
 Welcome to the Product Listing React App! This is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This application allows you to manage and display a list of products with CRUD (Create, Read, Update, Delete) functionality.
 
-## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Routes](#api-routes)
-- [Example Requests with Postman](#example-requests-with-postman)
-- [Folder Structure](#folder-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -28,7 +19,7 @@ Welcome to the Product Listing React App! This is a full-stack web application b
    cd product-listing-react/client
    npm install
 
-   cd ../backend
+   cd ./backend
    npm install
    ```
 3. **Create a Dotenv file (.env) and Paste below code into it:**
