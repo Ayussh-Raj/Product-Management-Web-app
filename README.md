@@ -10,7 +10,7 @@ Welcome to the Product Listing React App! This is a full-stack web application b
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/vipullsingh/product-listing-react.git
+   git clone https://github.com/Ayussh-Raj/Product-Management-Web-app
    ```
 
 2. **Navigate to Client and Backend Folders:**
